@@ -1,4 +1,4 @@
-# Gama Academy - Projeto Simples com Javascript :)
+# Gama Academy - Projeto Simples com Javascript 
 
 Uma aplicação que realiza uma consulta em `database.js` e verifica os livros disponíveis, selecionando ou não uma categoria de livros.
 
