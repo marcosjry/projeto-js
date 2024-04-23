@@ -5,6 +5,3 @@ Uma aplicação que realiza uma consulta em `database.js` e verifica os livros d
 Para iniciar o projeto:
 `npm start`
 
-
-
-## Marcos 
